@@ -1,12 +1,4 @@
-/*
-
-Template 2098 Health
-
-http://www.tooplate.com/view/2098-health
-
-*/
-
-  @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600');
 
   body {
     background: #ffffff;
@@ -278,7 +270,7 @@ http://www.tooplate.com/view/2098-health
 
   header a,
   header span {
-    color: #747474;
+    color: #8B2635;
   }
 
   header span {
@@ -295,11 +287,13 @@ http://www.tooplate.com/view/2098-health
   }
 
   header span i {
-    color: #a5c422;
+    color: #8B2635;
     margin-right: 5px;
   }
 
-
+  .logo-header{
+    width: 7em
+  }
 
   /*---------------------------------------
       MENU              

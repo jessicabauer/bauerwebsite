@@ -1,1 +1,7 @@
 # bauerwebsite
+
+#2B2D42
+#8D99AE
+#8B2635
+#EDF2F4
+#FD151B
